@@ -1,0 +1,141 @@
+/*Large devicese*/
+@media only screen and (max-width: 1268px) {
+     
+}
+@media only screen and (max-width: 1228px) {
+     
+}
+@media only screen and (max-width: 1024px) {
+     
+}
+/*Tab*/
+@media only screen and (max-width: 992px) {
+     .slider-one article.slider-content h1 {
+    font-size: 43px;
+}
+.slider-number h1 { 
+    font-size: 44px; 
+}
+.slider-number h1 span {
+    font-size: 28px; 
+}
+.slider-bar span {
+    width: 36px;
+    height: 4px;
+    background: #b0b0b0;
+}
+.slider-one article.slider-content {
+    width: 78%; 
+}
+}
+/*Mobile*/
+@media only screen and (max-width: 767px) {
+    
+.slider-one { 
+    flex-direction: column;
+    margin-top: 55px;
+}
+.slider-one .slider-right { 
+    width: 100%; 
+    height: 100%;
+}
+.slider-one .slider-left { 
+    width: 100%; 
+}
+.logo-wrap h1 { 
+    font-size: 24px;
+}
+.slider-one article.slider-content {
+    width: 98%; 
+}
+.slider-one article.slider-content h1 {
+    font-size: 26px;
+}
+.slider-one .slider-left { 
+    margin-bottom: 20px;
+}
+.slider-number {
+    bottom: -20px;
+}
+.slider-number h1 {
+    font-size: 24px;
+}
+.slider-number h1 span {
+    font-size: 15px;
+}
+.menu-icon  { 
+  right: 20px;
+  top: 20px; 
+  left:auto;
+} 
+.menu-wrap ul li { 
+    font-size: 19px; 
+    margin-bottom: 15px;
+}
+.menu-wrap {
+    width: 100%;
+}
+article.menu-right h3 span {
+    color: #fff301;
+    line-height: 24px;
+}
+article.menu-right h3 { 
+    font-size: 20px;
+    width: 96%;
+}
+.menu-wrap ul {
+    width: 43%;
+    padding-left: 22px;
+}
+.menu-bottom ul {
+    padding: 0;
+}
+.menu-bottom {
+    width: 92%;
+}
+.menu-bottom ul li:first-child {
+    display: block;
+    border: 0;
+}
+.slider-two { 
+    flex-direction: column;
+    }
+    .slider-two .slider-right { 
+    width: 100%;
+    height: 100%; 
+}
+.slider-two .slider-left { 
+    width: 100%; 
+    height: 21%;
+}
+.slider-two .slider-number {
+    bottom:7px;
+}
+.slider-one { 
+    left: 15px;
+    right: 15px;
+    top: 8px;
+    bottom: 15px;
+}
+.logo-wrap { 
+    left: 15px;
+    top: 15px; 
+}
+.nav-btn { 
+    left: 10px; 
+}
+.slider-one .slider-right,.slider-two .slider-right { 
+    background-position: bottom;
+} 
+.common-btn {
+    font-size: 10px;
+    width: 135px;
+    padding: 11px;  
+}
+.slider-two .right-content h2,.slider-one .right-content h2,.right-content-two h2 { 
+    font-size: 33px;
+}
+}
+
+
+
